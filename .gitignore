@@ -1,0 +1,10 @@
+# Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# Dataset files (ignore if datasets are hosted externally)
+data/
+datasets/
+

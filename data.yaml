@@ -1,0 +1,31 @@
+path: /Users/winnovation/Desktop/Webkul_Object_detection_task/dataset  # full path yahan tak jahan images/ labels/ hain
+train: images/train
+val: images/val
+
+nc: 24
+names: [
+    "Bird",
+    "Person",
+    "Laptop",
+    "Halmet",
+    "Pillow",
+    "Car",
+    "Bike",
+    "Bicycle",
+    "Mask",
+    "Dog",
+    "Cat",
+    "Hourse",
+    "Cup",
+    "Bottle",
+    "Bag",
+    "Table",
+    "Chair",
+    "Fan",
+    "Table lamp",
+    "Mobile",
+    "Goggels",
+    "Elephant",
+    "Bed",
+    "Bus"
+]
