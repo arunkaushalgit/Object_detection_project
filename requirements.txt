@@ -1,18 +1,8 @@
-# Core Libraries
 numpy
 pandas
-
-
-# Image Processing
 streamlit
 opencv-python-headless
 Pillow
-
-
-
-
-
-# Object Detection Libraries
 ultralytics  
 
 
