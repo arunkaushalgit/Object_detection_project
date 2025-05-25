@@ -8,7 +8,6 @@ opencv-python
 Pillow
 
 
-tensorflow
 
 
 
