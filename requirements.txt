@@ -1,4 +1,25 @@
-ultralytics==8.0.20
-opencv-python
-matplotlib
+# Core Libraries
 numpy
+pandas
+matplotlib
+scikit-learn
+
+# Image Processing
+opencv-python
+Pillow
+
+
+tensorflow
+
+# For Annotation & Bounding Box Utilities
+labelimg
+imgaug
+
+# Object Detection Libraries
+ultralytics  # For YOLOv5 and YOLOv8
+
+# Visualization Tools
+seaborn
+tensorboard
+
+
