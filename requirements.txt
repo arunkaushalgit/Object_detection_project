@@ -4,7 +4,8 @@ pandas
 
 
 # Image Processing
-opencv-python
+streamlit
+opencv-python-headless
 Pillow
 
 
